@@ -3,7 +3,7 @@
 
 ---
 
-## PART 1: TREASURE ISLAND ADVENTURE GAME
+## [PART 1: TREASURE ISLAND ADVENTURE GAME](https://github.com/DaniyalSarwari/python-coursework/tree/main/control_flow/part_1)
 
 
-## PART 2: Rollercoaster Pricing System - 4 Stages
+## [PART 2: Rollercoaster Pricing System - 4 Stages](https://github.com/DaniyalSarwari/python-coursework/tree/main/control_flow/part_2)
