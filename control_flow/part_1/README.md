@@ -1,4 +1,4 @@
-## **PART 1: TREASURE ISLAND ADVENTURE GAME**
+## **PART 1: Treasure Island Adventure Game**
 
 ### If/Else Decision Making
 
@@ -88,3 +88,5 @@ Game Over. Try again!
 ---
 
 # Solution:
+
+[control_flow_part_1.ipynb](https://colab.research.google.com/drive/1PDf1Qggz6D_oNjGGke6APAsrYiZFYbet?usp=sharing)
