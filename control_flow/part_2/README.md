@@ -453,3 +453,5 @@ Thank you for visiting!
 ---
 
 # Solution:
+
+[control_flow_part_2.ipynb](https://colab.research.google.com/drive/15wWo4fEHKlV8wWuKsKx-HQ2iT2YqcezJ?usp=sharing)
