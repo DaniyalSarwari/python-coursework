@@ -1,5 +1,5 @@
-# Python Assignment: BMI Calculator
- This Python assignment has been completed in accordance with the requirements provided in the Panaversity repository for AI Modern Python, Lesson [**03_operators_keywords_variables**](https://github.com/panaversity/learn-modern-ai-python/tree/main/00_python_colab/03_operators_keywords_variables/assignment)
+# BMI Calculator
+ This Python project has been completed in accordance with the requirements provided in the Panaversity repository for AI Modern Python, Lesson [**03_operators_keywords_variables**](https://github.com/panaversity/learn-modern-ai-python/tree/main/00_python_colab/03_operators_keywords_variables/assignment)
 
 ---
 
@@ -50,4 +50,4 @@ After calculating the BMI, display a message showing whether the person is:
 
 # Solution:
 
-[BMI Calulator Colaboratory Link](https://colab.research.google.com/drive/16z_cMhHgOXRmN-RWOz4pctMJNLyGUCq-?usp=sharing)
+[BMI Calulator Colaboratory Link](https://colab.research.google.com/github/DaniyalSarwari/python-coursework/blob/main/Projects/BMI%20Calculator/bmi_calculator.ipynb)
