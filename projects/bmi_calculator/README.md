@@ -50,4 +50,4 @@ After calculating the BMI, display a message showing whether the person is:
 
 # Solution:
 
-[BMI Calulator Colaboratory Link](https://colab.research.google.com/github/DaniyalSarwari/python-coursework/blob/main/Projects/bmi_calculator/bmi_calculator.ipynb)
+[BMI Calulator Colaboratory Link](https://colab.research.google.com/github/DaniyalSarwari/python-coursework/blob/main/projects/bmi_calculator/bmi_calculator.ipynb)
