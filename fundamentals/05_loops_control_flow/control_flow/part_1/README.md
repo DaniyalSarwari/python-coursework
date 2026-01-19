@@ -89,4 +89,4 @@ Game Over. Try again!
 
 # Solution:
 
-[control_flow_part_1.ipynb](https://colab.research.google.com/drive/1PDf1Qggz6D_oNjGGke6APAsrYiZFYbet?usp=sharing)
+[control_flow_part_1.ipynb](https://github.com/DaniyalSarwari/python-coursework/blob/main/fundamentals/05_loops_control_flow/control_flow/part_1/control_flow_part_1.ipynb)

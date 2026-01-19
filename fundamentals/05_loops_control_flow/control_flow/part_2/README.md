@@ -454,4 +454,4 @@ Thank you for visiting!
 
 # Solution:
 
-[control_flow_part_2.ipynb](https://colab.research.google.com/drive/15wWo4fEHKlV8wWuKsKx-HQ2iT2YqcezJ?usp=sharing)
+[control_flow_part_2.ipynb](https://github.com/DaniyalSarwari/python-coursework/blob/main/fundamentals/05_loops_control_flow/control_flow/part_2/control_flow_part_2.ipynb)

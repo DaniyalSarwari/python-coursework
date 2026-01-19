@@ -4,7 +4,7 @@
 ---
 
 ### PART 1:
-[Treasure Island Aventure Game](https://github.com/DaniyalSarwari/python-coursework/tree/main/Fundamentals/05_loops_control_flow/control_flow/part_1)
+[Treasure Island Aventure Game](https://github.com/DaniyalSarwari/python-coursework/tree/main/fundamentals/05_loops_control_flow/control_flow/part_1)
 
 ### PART 2:
-[Rollercoaster Pricing System - 4 Stages](https://github.com/DaniyalSarwari/python-coursework/tree/main/Fundamentals/05_loops_control_flow/control_flow/part_2)
+[Rollercoaster Pricing System - 4 Stages](https://github.com/DaniyalSarwari/python-coursework/tree/main/fundamentals/05_loops_control_flow/control_flow/part_2)
