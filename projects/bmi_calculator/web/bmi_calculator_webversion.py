@@ -5,8 +5,8 @@ import streamlit as st
 st.title("BMI Calculator")
 st.write("Adjust your Height and Weight parameters")
 
-person_height = st.slider("Enter your height in meters: ",100, 250, 175)
-person_height = person_height / 100
+person_height = st.slider("Enter your height in centi-meters: ",100, 250, 175)
+person_height = person_height / 100  # converted into meters
 person_weight = st.slider("Enter your weight in kilograms: ", 40, 200, 70)
 
 bmi = person_weight / (person_height * person_height)
