@@ -1,3 +1,16 @@
+"""
+Simple Data Dashboard (Streamlit App)
+
+This script builds an interactive dashboard to upload a CSV file,
+preview data, view summary statistics, filter rows, and plot data.
+
+How to run:
+1. Install dependencies:
+   pip install streamlit pandas
+
+2. Run the app:
+   streamlit run streamlit_simple_website.py
+"""
 import streamlit as st
 import pandas as pd
 
