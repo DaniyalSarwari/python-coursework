@@ -35,7 +35,10 @@ def main():
     location: Path = Path(current)/"Files"  # create a folder with name "Files" for files to be placed in it
     location.mkdir(exist_ok=True)
 
-    status: str = input(f"Please place your all files at ( {location} ) and write 'done': ")
+    status: str = '' 
+    while status != "done":
+        status: str = input(f"Please place your all files at ( {location} ) and write 'done': ").lower()
+
     input_word: str = input("Please Enter prefix word: ")
 
     if status == "done":
