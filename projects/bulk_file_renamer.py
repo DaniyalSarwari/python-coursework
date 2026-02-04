@@ -44,7 +44,10 @@ def main():
 
     if status == "done":
         count: int = bulk_renamer(location, input_word)
-        print(f"Total {count} file renamed successfully")
+        if count:
+            print(f"Total {count} file renamed successfully")
+        else:
+            print("No file effected (make sure ./Files folder contains files)")
     
 
 if __name__ == "__main__":
